@@ -1,0 +1,22 @@
+{
+  "wheel_id": 948,
+  "structure": "umbrella",
+  "slug": "bathrenovationmelbourne-com-106",
+  "project": "bathroom-renovations-melbourne-glossary-3d09b2b698cbcd0f200308d",
+  "parent_t1_ref": "bathrenovationmelbourne-com-152",
+  "node_role": "feeder",
+  "money_target": "bathrenovationmelbourne.com.au",
+  "primary_kw": "bathroom renovations melbourne glossary",
+  "intended_url": "https://aumedia.neocities.org/bathroom-renovations-melbourne-glossary-3d09b2b698cbcd0f200308d/",
+  "tier": "T2",
+  "writeback_nonce": "92685967e1e6dd82",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bathrenovationmelbourne-com-152/",
+      "anchor": "Bathroom Renovations Melbourne Budget Tips: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
